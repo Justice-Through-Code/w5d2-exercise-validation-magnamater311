@@ -1,4 +1,3 @@
-
 # 1.1 TODO: Create a function called validate_user_input that will
 # - ask the user for a number: 'Please enter a number'
 # - try to return the user's input as an integer
